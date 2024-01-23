@@ -1,6 +1,7 @@
 # Engineering 080 - Statistical Modeling and Data Analysis for Engineers
-I had the privilege of serving as a Teaching Fellow during the Fall 2023 semester, where my responsibilities 
-included instructing ENGR 080. I independently developed, delivered, and administered all course materials.
+I had the privilege to be a Teaching Fellow in the Fall 2023 semester, taking on the role of instructing the 
+inaugural offering of Engineering 080 (ENGR 080). Throughout this experience, I independently undertook the 
+development, delivery, and administration of all course materials.
 
 ## About the Course
 The primary objective of this course was to provide a practical and hands-on introduction to probability theory 
